@@ -41,7 +41,7 @@ EFFECTS = {
     'wave_3'            : "272b5dffc8222686",
     'wave_4'            : "272b55ffc822268e",
     'wave_5'            : "272b2dffc8222696",
-    'off'               : "272b65fff01da56e",
+    'off'               : "272b65ffe81d9e76",
 }
 
 ACTIVE_DPI = {
